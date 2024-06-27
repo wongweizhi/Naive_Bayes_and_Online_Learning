@@ -7,6 +7,7 @@
 
 ## 1. Naive Baye's Image Classifier
 Create a Naive Baye's Image Classifier that support <b>discrete</b> and <b>continuous</b> features.
+
 $$
 P(class|data) = \frac{P(data|claass)P(class)}{P(data)}
 $$
